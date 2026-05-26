@@ -18,7 +18,6 @@ Sistema web desenvolvido em PHP + MySQL.
    http://upgarage.local:8080
    
 4. Login Admin do site: 
-   admin@upgarage.com 
+   admin@upgarage.com
    Senha: 123456
    link:  http://upgarage.local:8080/admin/login.php
-# up-garage
